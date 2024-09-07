@@ -45,9 +45,9 @@ Feel free to add more initialization such as `firebase init storage` etc.
 
 ![alt text](Login.JPG)
 
-![alt text](register.JPG)
+![alt text](register.png)
 
-![alt text](landingPage.JPG)
+![alt text](landingPage.png)
 
 ![alt text](groupchat.JPG)
 
