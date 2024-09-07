@@ -43,29 +43,29 @@ Feel free to add more initialization such as `firebase init storage` etc.
 
 ![alt text](image-1.png)
 
-![alt text](Login.jpg)
+![alt text](Login.JPG)
 
-![alt text](register.jpg)
+![alt text](register.JPG)
 
-![alt text](landingPage.jpg)
+![alt text](landingPage.JPG)
 
-![alt text](groupchat.jpg)
+![alt text](groupchat.JPG)
 
-![alt text](contacts.jpg)
+![alt text](contacts.JPG)
 
-![alt text](chatRoom.jpg)
+![alt text](chatRoom.JPG)
 
-![alt text](FindFriends.jpg)
+![alt text](FindFriends.JPG)
 
-![alt text](groupChatRoom.jpg)
+![alt text](groupChatRoom.JPG)
 
-![alt text](menu.jpg)
+![alt text](menu.JPG)
 
-![alt text](requestsAccepted.jpg)
+![alt text](requestsAccepted.JPG)
 
-![alt text](requestsRecieved.jpg)
+![alt text](requestsRecieved.JPG)
 
-![alt text](requestsSend.jpg)
+![alt text](requestsSend.JPG)
 
 Authors:
 - Kelvin Odinamadu
